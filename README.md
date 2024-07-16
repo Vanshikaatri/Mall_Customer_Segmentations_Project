@@ -32,7 +32,7 @@ Data preprocessing steps include:
 2. Encoding categorical variables (Gender)
 3. Scaling numerical features (Annual Income and Spending Score)
 4. Exploratory Data Analysis (EDA)
-# EDA involves:
+# 3. EDA involves:
 
 1. Visualizing the distribution of various features
 2. Analyzing the relationship between different features
