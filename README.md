@@ -1,4 +1,4 @@
-# Mall_Customer_Segmentations_Project
+# Mall_Customer_Segmentation_Project
 # Overview
 This project focuses on segmenting mall customers based on their purchasing behavior and demographic information. By clustering customers into different groups, businesses can better understand their customers, tailor marketing strategies, and improve customer experience. The project involves data preprocessing, exploratory data analysis (EDA), and applying various clustering algorithms to identify distinct customer segments.
 
